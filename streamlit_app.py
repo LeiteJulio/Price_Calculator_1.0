@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import io
-from fpdf import FPDF
+#from fpdf import FPDF
 import datetime
 import altair as alt
 import os
